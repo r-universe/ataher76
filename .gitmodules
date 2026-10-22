@@ -8,3 +8,6 @@
 [submodule "aanova"]
 	path = aanova
 	url = https://github.com/ataher76/aanova
+[submodule "aquats"]
+	path = aquats
+	url = https://github.com/ataher76/aquats
